@@ -5,12 +5,15 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
   "license": "MIT",
   "author": "",
   "directories": {
     "doc": "doc",
     "test": "tests"
+  },
+  "repository": {	
+    "type": "git",
+    "url": "https://github.com/rtablada/ember-import-blueprints.git"
   },
   "scripts": {
     "build": "ember build",
